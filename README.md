@@ -19,8 +19,8 @@ A Laravel application with a **Currency Conversion Module** — fetches live exc
 
 ---
 ## Preview
-![Descriptive alt text](documentation/images/photo_2026-03-11_00-21-50.jpg)
-![Descriptive alt text](documentation/images/photo_2026-03-11_00-21-59.jpg)
+![Descriptive alt text](documentation/images/image_2026-03-11_00-40-59.png)
+![Descriptive alt text](documentation/images/image_2026-03-11_00-41-20.png)
 
 
 ---
