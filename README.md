@@ -18,7 +18,12 @@ A Laravel application with a **Currency Conversion Module** — fetches live exc
 | Dev environment | Laravel Sail (Docker) |
 
 ---
+## Preview
+![Descriptive alt text](documentation/images/photo_2026-03-11_00-21-50.jpg)
+![Descriptive alt text](documentation/images/photo_2026-03-11_00-21-59.jpg)
 
+
+---
 ## Requirements
 
 - Docker + Docker Compose
